@@ -1,0 +1,23 @@
+body{
+    background-color: black;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    border: 1px solid Blue;
+}
+
+main{
+   
+  
+}
+
+h1{
+    color: white;
+}
+
+
+.card-image{
+    max-height: 300px;
+}
