@@ -37,8 +37,7 @@ const App = () => {
                     <CardText style={{ color: '#808080' }}>{character.race}</CardText>
                     <Card.Img variant="top" src={character.image} alt={character.name} className="card-image" />
                     <CardBody>
-
-
+                      <Button variant="primary">More Info</Button>
                     </CardBody>
                   </Card>
                 </div>
